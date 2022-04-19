@@ -98,14 +98,20 @@ body {
     .car-text {
         position: absolute;
         left: 25px;
-        bottom: 25px;
+        bottom: 15px;
         text-align: left;
     }
 
     .car-text > h5 {
-        font-size: 32px;
+        font-size: 18px;
         line-height: 1.2;
-        margin-bottom: 32px;
+        margin-bottom: 18px;
+    }
+
+    .btn-group-lg>.btn, .btn-lg {
+        /* padding: .5rem 1rem; */
+        font-size: 1.25rem;
+        border-radius: .3rem;
     }
 
 
