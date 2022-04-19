@@ -103,14 +103,14 @@ body {
     }
 
     .car-text > h5 {
-        font-size: 18px;
+        font-size: 25px;
         line-height: 1.2;
         margin-bottom: 18px;
     }
 
     .btn-group-lg>.btn, .btn-lg {
         /* padding: .5rem 1rem; */
-        font-size: 1.25rem;
+        font-size: 1.rem;
         border-radius: .3rem;
     }
 
