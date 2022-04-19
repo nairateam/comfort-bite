@@ -64,14 +64,12 @@ body {
         padding: 15px 32px;
     }
 
-    .rowl > h2 {
-        font-size: 32px;
-    }
-
-    .p-title {
+    .nav-a {
         display: inline-block;
-        font-size: 18px;
-        margin-bottom: 15px;
+        text-decoration: none;
+        color: rgb(97, 96, 96);
+        font-size: 12px;
+        margin: 18px;
     }
 
 
@@ -153,6 +151,18 @@ body {
     .sect-img {
         max-width: 100%;
         height: auto;
+    }
+
+
+    .rowl > h2 {
+        font-size: 32px;
+    }
+
+
+    .p-title {
+        display: inline-block;
+        font-size: 18px;
+        margin-bottom: 15px;
     }
 
 
